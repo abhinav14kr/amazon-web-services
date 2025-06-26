@@ -33,7 +33,7 @@ Mazie Architecture
 
 
 
-Uploading an S3 bucket with txt file containing personal or sensitive information for Macie to scan, and noticing the Mazie findings
+### Uploading an S3 bucket with txt file containing personal or sensitive information for Macie to scan, and noticing the Mazie findings
 
 
 
