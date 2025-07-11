@@ -1,4 +1,4 @@
-# MINI PROJECTS USING VARIOUS COMPONENTS OF AWS SERVICES 
+# Mini Prokects using various components of AWS services
 
 ## *1. Lambda Serverless Architecture Workflow with Email Configuration* 
 
@@ -20,19 +20,9 @@ https://github.com/abhinav14kr/Amazon-Web-Services/assets/139970672/b2e956c9-8be
 
 
 
-
-
 ## *2. AWS Mazie* 
 
-                                                            
-
-Mazie Architecture 
-
-![MacieArchitecture](https://github.com/abhinav14kr/Amazon-Web-Services/assets/139970672/b41421ce-042d-441a-95a5-76317949b7d2)
-
-
-
-
+                                                        
 ### Uploading an S3 bucket with txt file containing personal or sensitive information for Macie to scan, and noticing the Mazie findings
 
 
